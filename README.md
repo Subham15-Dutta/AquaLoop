@@ -1,4 +1,4 @@
-# Aqua Loop
+<img width="3881" height="161" alt="image" src="https://github.com/user-attachments/assets/d2a4456f-62b4-4f06-af18-c71abe5338ca" /># Aqua Loop
 
 AI-Powered Smart Water Treatment Optimization & Circular Water Management Platform
 
@@ -147,4 +147,5 @@ MIT
 
 ## Smart India Hackathon 2026
 
-Built for SIH 2026 - Problem Statement: Smart Water Treatment Optimization
+Built for SIH 2026 - Problem Statement: Student Innovation-Innovative ideas that help manage and generate renewable / sustainable sources more efficiently
+
