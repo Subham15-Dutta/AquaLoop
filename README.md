@@ -1,4 +1,4 @@
-<img width="3881" height="161" alt="image" src="https://github.com/user-attachments/assets/d2a4456f-62b4-4f06-af18-c71abe5338ca" /># Aqua Loop
+# Aqua Loop
 
 AI-Powered Smart Water Treatment Optimization & Circular Water Management Platform
 
